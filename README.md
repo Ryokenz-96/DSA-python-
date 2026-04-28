@@ -7,10 +7,12 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ryokenz-96/DSA-python-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ryokenz-96/DSA-python-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Ryokenz-96/DSA-python-/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -24,6 +26,7 @@ Pretty self-explanatory.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Ryokenz-96/DSA-python-/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -33,4 +36,12 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Ryokenz-96/DSA-python-/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
