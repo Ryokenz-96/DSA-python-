@@ -31,6 +31,7 @@ Pretty self-explanatory.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ryokenz-96/DSA-python-/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Ryokenz-96/DSA-python-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -44,4 +45,8 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ryokenz-96/DSA-python-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
