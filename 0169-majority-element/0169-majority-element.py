@@ -9,11 +9,4 @@ class Solution:
                 occur+=1
             else:
                 occur-=1
-        count=0
-        for i in range(len(nums)):
-            if num==nums[i]:
-                count+=1
-        if count>(len(nums)//2):
-            return num
-        else:
-            pass
+        return num
