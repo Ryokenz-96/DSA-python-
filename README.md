@@ -19,6 +19,7 @@ Pretty self-explanatory.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Ryokenz-96/DSA-python-/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -57,4 +58,8 @@ Pretty self-explanatory.
 | [0069-sqrtx](https://github.com/Ryokenz-96/DSA-python-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ryokenz-96/DSA-python-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Ryokenz-96/DSA-python-/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
