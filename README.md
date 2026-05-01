@@ -9,6 +9,7 @@ Pretty self-explanatory.
 | [0001-two-sum](https://github.com/Ryokenz-96/DSA-python-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ryokenz-96/DSA-python-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ryokenz-96/DSA-python-/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,5 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Ryokenz-96/DSA-python-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
