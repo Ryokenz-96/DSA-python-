@@ -7,6 +7,7 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ryokenz-96/DSA-python-/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Ryokenz-96/DSA-python-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ryokenz-96/DSA-python-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ryokenz-96/DSA-python-/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ Pretty self-explanatory.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ryokenz-96/DSA-python-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ryokenz-96/DSA-python-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ryokenz-96/DSA-python-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ryokenz-96/DSA-python-/tree/master/0389-find-the-difference) |
@@ -65,6 +67,7 @@ Pretty self-explanatory.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ryokenz-96/DSA-python-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ryokenz-96/DSA-python-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
