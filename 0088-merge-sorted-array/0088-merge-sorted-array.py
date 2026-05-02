@@ -3,8 +3,4 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        for _ in range(m,len(nums1)):
-            nums1.remove(0)
-        for val in nums2:
-            nums1.append(val)
-        nums1.sort()
+        nums1[:] = sorted(nums1[:m] + nums2)
