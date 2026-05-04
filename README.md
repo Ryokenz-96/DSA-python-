@@ -23,6 +23,7 @@ Pretty self-explanatory.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ryokenz-96/DSA-python-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Ryokenz-96/DSA-python-/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@ Pretty self-explanatory.
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ryokenz-96/DSA-python-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Ryokenz-96/DSA-python-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ryokenz-96/DSA-python-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Ryokenz-96/DSA-python-/tree/master/0283-move-zeroes) |
@@ -75,4 +77,8 @@ Pretty self-explanatory.
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Ryokenz-96/DSA-python-/tree/master/0198-house-robber) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ryokenz-96/DSA-python-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
